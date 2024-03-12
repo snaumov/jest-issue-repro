@@ -1,0 +1,8 @@
+{
+    "maxWorkers": 4, 
+    "workerThreads": true,
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+        "<rootDir>/*.{js,mjs,cjs,ts,jsx,tsx}"
+    ]
+}
